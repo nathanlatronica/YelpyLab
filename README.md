@@ -1,3 +1,3 @@
 # YelpyLab
 
-<img src = "http://g.recordit.co/EY625KT04k.gif" width = 250>
+<img src = "http://g.recordit.co/BzixXaT9UE.gif" width = 250>
